@@ -45,7 +45,7 @@ function sliderset(element, question, labels){
 }
 
 function sliderupdate(element){
-  / * Handles slider updates */
+  /* Handles slider updates */
   
   this.element = element;
   var maxpoints = this.getAttribute('max');
