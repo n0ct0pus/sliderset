@@ -23,4 +23,4 @@ sliderset(form, 'How about between these foods?', ['Hot dogs', 'Milkshakes']);
 ```
 
 
-https://jsfiddle.net/21ucrkh0/9/
+https://jsfiddle.net/h2qsk68v/
