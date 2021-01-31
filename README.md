@@ -21,3 +21,6 @@ sliderset(form, 'How much do you like each food?', ['Pizza', 'Cake', 'Icecream']
 
 sliderset(form, 'How about between these foods?', ['Hot dogs', 'Milkshakes']);
 ```
+
+
+https://jsfiddle.net/21ucrkh0/9/
